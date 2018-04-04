@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+}
+
+.body_text{
+  font-size: 48px;
+}
+
+#special{
+  background-color: #ff0000
+}
+
+/* CSS Psuedo-class */
+a:hover {
+  color:#ff0000
+}
